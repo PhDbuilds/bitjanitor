@@ -1,3 +1,4 @@
 .venv
 data.json
 encryption_key.key
+__pycache__

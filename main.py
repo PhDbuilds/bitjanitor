@@ -112,8 +112,7 @@ def find_password():
             )
             messagebox.showinfo("Website Details", details_message)
         else:
-            messagebox.showerror("Error", f"Website '{
-                                 website}' not found in the file.")
+            messagebox.showerror("Error", f"Website '{website}' not found in the file.")
 
     except FileNotFoundError:
         messagebox.showerror("Error", "The file was not found.")
