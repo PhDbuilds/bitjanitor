@@ -1,8 +1,10 @@
 # Bit Janitor
 This was a spin off day 29 of Angela Yu's Hundred Days of Python course. I really enjoyed this one so took it a bit further than the requirements.
 
+This has been tested and working on both macOS and Debian flavors of Linux.
+
 # Usage
-1. Clone the repo
+1. Clone the repo 
 
 2. Create python virtual environment (optional)
  - If you do, make sure to run `.venv/bin/activate` (or whatever you named it) to activate your virtual Python environment.
